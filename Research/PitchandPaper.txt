@@ -1,0 +1,22 @@
+﻿EID101D Idea Research and Pitch - Due 9/16
+Mary Dwyer
+Train Tracker 
+
+
+Summary
+A method for tracking people and subway trains in order to control crowds and provide train arrival times remotely. This can be achieved through a sensor that can track the number of electronic devices in a given space based on wifi or bluetooth, RFID or ultra wideband tracking, or a sensor on the train-tracks coupled with cameras that count heads on the train. The data collected from the sensor could interpret when a train is arriving (i.e. if a large number of electronic devices/heads are traveling together at a certain speed in a certain direction, the assumption can be made that they are on a specific train that will arrive at “x” time), and how crowded a train is (maybe even how crowded a train car is). A person who rides the subway regularly can know when exactly their train is arriving - even from outside of the station - and make a decision based on the crowds whether or not they want to take the train at that time.
+
+
+Technology
+RapidBlue Solutions and ShopperTrak partnered to develop interior analytic solutions that track shoppers behaviors once they enter a store. Similar technology can be applied within a subway station. This technology includes bluetooth, wifi, and GSM. If the connection is available, bluetooth and wifi would be most effective to track subway train timing as they provide the highest ping frequency. https://vimeo.com/70339461?mkt_tok=3RkMMJWWfF9wsRonu6%2FMZKXonjHpfsX56ewqXaC%2FlMI%2F0ER3fOvrPUfGjI4ATMZrI%2BSLDwEYGJlv6SgFT7PDMbR00LgMWhM%3D
+Using a wifi sniffer, you could track the number of mobile devices in the area. If wifi is installed on your iphone, the sniffer recognizes the phone’s unique mac address. 
+http://www.veracode.com/security/wireless-sniffer
+Using a BLE (bluetooth low energy) proximity sensor, we can detect when a mobile device is close to a sensor.
+http://blog.onlycoin.com/posts/2013/10/3/coin-arduino-ble-dev-kit 
+Alternatively, a wireless sensor network can track the location of the trains, while video cameras within the train do a headcount using video analytics like envysion products do. http://research.unl.edu/annualreport/2013/developing-sensors-to-enhance-rail-safety/
+http://envysion.com/products/envysion-analytics/?st-t=google_analytics_search&vt-k=video%20people%20counting&gclid=CPvB37i598cCFc0YHwodBooAwg
+One of the most accurate interior analytic solutions is ultra wideband, but ultra wideband requires power. Another option for this project is to transform ultra wideband into a passive technology that can be integrated into a metrocard.  
+
+
+My Pitch
+Let’s create a simple, cost-effective, and connected combination of selected technologies from above. For our project we will investigate what new combinations of technology would most simply and accurately notify commuters of travel times and crowds. Based on the knowledge and resources of our group, we will choose from the solutions above, and further investigate by talking to commuters and employees of the NYC subway system to learn what the market will support and what the consumer needs from our potential solution.

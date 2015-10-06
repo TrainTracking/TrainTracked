@@ -1,0 +1,26 @@
+﻿EID101D Competitive Essay Homework Assignment - Due 8/1
+Mary Dwyer
+Customer Segment
+18-45 year old business-oriented New York City subway commuters who have flexible, but valuable time
+
+
+Value Proposition
+A train tracking app that solves the problems of time waste during a commute by telling the user exactly when a train will arrive at the station, and crowded trains by notifying the user of the number of people on the train at a time. 
+
+
+Customer Research
+I called different relatives and friends including Tracey Dwyer (Electrical Engineer, Checkpoint Systems), Jim Dwyer (CPA, AIG), Dr. Jennifer Hartstein (PsyD), and Vannessa Drossman (Marketing, Martha Stewart) who fit the customer segment and asked them the following questions:
+1. What annoys you the most about commuting on the subway?
+2. What subway apps do you have downloaded on your phone? 
+3. Would you be interested in an app that helps you avoid crowds and save time on a subway?
+Conclusively, they were most bothered by the people on the trains. After a long day of work, it’s bothersome to be surrounded by large crowds. When asked if they would stay at work longer to avoid the crowds, they responded that they would. Some of them often do just that. Based on their past experience, they will leave the office at the time of day that they believe will help them avoid rush hour. However, they noted it is not a very accurate system. Depending on holidays, weather, etc. commuting patterns change; it is often unpredictable.
+        All of them had HopStop downloaded onto their phones. However, they infrequently use the app. The will only use it if they are traveling to a place they have never been, which is rare.
+        They responded that they would definitely download an app that does those things if it is easy-to-use and accurate. User-interface was very important. Some of them also suggested adding the trip-planning aspect of the commute, which HopStop offers, would improve the product. 
+
+
+Competitors
+        Current New York City subway app competitors include HopStop, Embark NYC, and MTA SubwayTime. Neither HopStop nor Embark NYC offer train tracking or crowd control. However, MTA SubwayTime offers train tracking features. The app only tracks the trains on 8 of the 24 NYC Subway lines. Ultimately, none of the apps do what our train tracking app would offer. Although members of our customer segment have these apps downloaded to their phones, they use them infrequently. Our customer segment wants to be informed about crowds and train timing daily, and would get more use out of an app that does just that. Incorporating the mapping attributes of Embark NYC and HopStop would expand our market and supplant the need for either of those apps as a whole. 
+Apple recently purchased HopStop and the application is shutting down in October.
+
+
+Future research Calling competitors and posing as a customer, interviewing subway riders

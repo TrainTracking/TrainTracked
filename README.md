@@ -1,7 +1,7 @@
 # TrainTracked
-<!DOCTYPE html>
 <html>
 <body>
-    This is my first web page
+    Welcome to the README for the TrainTracking Group! 
+    Here you will find info related to our project!
 </body>
 </html>

@@ -24,6 +24,8 @@ We still need to go out and do more interviews or contact the makers of apps for
 
 
 ##Brian Phang:
+
+###Possible Customer Segment Research
 <html>
 <body><p>
 Based on the interviews that I personally conducted in two days at the 42nd Street Station and 14th Street—Union Square Station, people do not care about having a seat on the train. Most people are either going to work or rushing home and simply do not need a seat on the train. However, most elderly and injured people I talked to had a few concerns about seating but were ultimately solved because there is almost always a person to offer his seat. One main issue many people brought up is the homeless situation on the trains. As the weather gets colder, many of the homeless population move onto trains where the pungent odor of unsanitary people remains. Another issue that a large number or interviewees brought up is that during rush hour, they receive many involuntary touches that may be unwarranted. If we figure out the maximum number of passengers that a train can carry and limit each train car to a certain number of passengers during rush hour, we can probably stop the unwarranted contact between riders. Another problem is that trains such as the R and the A arrive in 10 minute intervals which can cause extreme lateness for certain riders. Furthermore, signal delays have been more frequent along the R and Q lines. Our train tracker can probably fix these issues and help to increase the frequency of trains in between stations. <br><br>

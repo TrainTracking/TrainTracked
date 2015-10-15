@@ -20,6 +20,60 @@ We still need to go out and do more interviews or contact the makers of apps for
 </html>
 
 ##Mary Dwyer:
+###Summary
+<html>
+<body><p>
+A method for tracking people and subway trains in order to control crowds and provide train arrival times remotely. This can be achieved through a sensor that can track the number of electronic devices in a given space based on wifi or bluetooth, RFID or ultra wideband tracking, or a sensor on the train-tracks coupled with cameras that count heads on the train. The data collected from the sensor could interpret when a train is arriving (i.e. if a large number of electronic devices/heads are traveling together at a certain speed in a certain direction, the assumption can be made that they are on a specific train that will arrive at “x” time), and how crowded a train is (maybe even how crowded a train car is). A person who rides the subway regularly can know when exactly their train is arriving - even from outside of the station - and make a decision based on the crowds whether or not they want to take the train at that time.
+</p></body></html>
+
+###Technology
+<html>
+<body><p>
+RapidBlue Solutions and ShopperTrak partnered to develop interior analytic solutions that track shoppers behaviors once they enter a store. Similar technology can be applied within a subway station. This technology includes bluetooth, wifi, and GSM. If the connection is available, bluetooth and wifi would be most effective to track subway train timing as they provide the highest ping frequency. https://vimeo.com/70339461?mkt_tok=3RkMMJWWfF9wsRonu6%2FMZKXonjHpfsX56ewqXaC%2FlMI%2F0ER3fOvrPUfGjI4ATMZrI%2BSLDwEYGJlv6SgFT7PDMbR00LgMWhM%3D <br><br>
+Using a wifi sniffer, you could track the number of mobile devices in the area. If wifi is installed on your iphone, the sniffer recognizes the phone’s unique mac address. 
+http://www.veracode.com/security/wireless-sniffer <br><br>
+Using a BLE (bluetooth low energy) proximity sensor, we can detect when a mobile device is close to a sensor.
+http://blog.onlycoin.com/posts/2013/10/3/coin-arduino-ble-dev-kit <br><br>
+Alternatively, a wireless sensor network can track the location of the trains, while video cameras within the train do a headcount using video analytics like envysion products do. http://research.unl.edu/annualreport/2013/developing-sensors-to-enhance-rail-safety/
+http://envysion.com/products/envysion-analytics/?st-t=google_analytics_search&vt-k=video%20people%20counting&gclid=CPvB37i598cCFc0YHwodBooAwg <br><br>
+One of the most accurate interior analytic solutions is ultra wideband, but ultra wideband requires power. Another option for this project is to transform ultra wideband into a passive technology that can be integrated into a metrocard.  
+</p></body></html>
+
+###My Pitch
+<html>
+<body><p>
+Let’s create a simple, cost-effective, and connected combination of selected technologies from above. For our project we will investigate what new combinations of technology would most simply and accurately notify commuters of travel times and crowds. Based on the knowledge and resources of our group, we will choose from the solutions above, and further investigate by talking to commuters and employees of the NYC subway system to learn what the market will support and what the consumer needs from our potential solution.
+</p></body></html>
+
+###Customer Segment
+<html>
+<body><p>
+18-45 year old business-oriented New York City subway commuters who have flexible, but valuable time
+
+###Value Proposition
+<html>
+<body><p>
+A train tracking app that solves the problems of time waste during a commute by telling the user exactly when a train will arrive at the station, and crowded trains by notifying the user of the number of people on the train at a time. 
+</p></body></html>
+
+###Customer Research
+<html>
+<body><p>
+I called different relatives and friends who fit the customer segment and asked them the following questions:<br><br>
+What annoys you the most about commuting on the subway?<br><br>
+What subway apps do you have downloaded on your phone? <br><br>
+Would you be interested in an app that helps you avoid crowds and save time on a subway?<br><br>
+Conclusively, they were most bothered by the people on the trains. After a long day of work, it’s bothersome to be surrounded by large crowds. When asked if they would stay at work longer to avoid the crowds, they responded that they would. Some of them often do just that. Based on their past experience, they will leave the office at the time of day that they believe will help them avoid rush hour. However, they noted it is not a very accurate system. Depending on holidays, weather, etc. commuting patterns change; it is often unpredictable.<br><br>
+All of them had HopStop downloaded onto their phones. However, they infrequently use the app. The will only use it if they are traveling to a place they have never been, which is rare.<br><br>
+They responded that they would definitely download an app that does those things if it is easy-to-use and accurate. User-interface was very important. Some of them also suggested adding the trip-planning aspect of the commute, which HopStop offers, would improve the product. 
+</p></body></html>
+
+###Competitors
+<html>
+<body><p>
+Current New York City subway app competitors include HopStop, Embark NYC, and MTA SubwayTime. Neither HopStop nor Embark NYC offer train tracking or crowd control. However, MTA SubwayTime offers train tracking features. The app only tracks the trains on 8 of the 24 NYC Subway lines. Ultimately, none of the apps do what our train tracking app would offer. Although members of our customer segment have these apps downloaded to their phones, they use them infrequently. Our customer segment wants to be informed about crowds and train timing daily, and would get more use out of an app that does just that. Incorporating the mapping attributes of Embark NYC and HopStop would expand our market and supplant the need for either of those apps as a whole.<br><br> 
+Apple recently purchased HopStop and the application is shutting down October 2015.</p></body></html>
+
 
 
 

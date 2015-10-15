@@ -15,7 +15,7 @@ Here are two graphs of our results from the 30 intereviews we conducted:</p>
 ###Longer Interviews
 <html>
 <body><p>
-I called different relatives and friends who fit the customer segment and asked them the following questions:<br><br>
+Mary contacted different relatives and friends who fit the customer segment and asked them the following questions:<br><br>
 What annoys you the most about commuting on the subway?<br><br>
 What subway apps do you have downloaded on your phone? <br><br>
 Would you be interested in an app that helps you avoid crowds and save time on a subway?<br><br>

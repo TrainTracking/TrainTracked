@@ -89,3 +89,21 @@ Wi-Fi is now available to certain train stations and can be used in our project.
 
 
 ##Jack Langner:
+
+###Customer Segment
+<html>
+<body><p>
+After careful consideration, our product targets people of the upper-middle class with smartphones that commute and that want to use their time wisely. This applies to people that live both inside and outside of the city. <br><br>
+
+###Value Proposition 
+<html>
+<body><p>
+The ideal way to deliver information to our customer segment would be through their phone, so the end goal is create an app that will display the real-time location and occupancy for the subway cars. In order to make this a reality, we would need to place sensors on the subway cars that are able to determine the number of people on the cars and how far along the cars are on their routes. <br><br>
+###Technology
+<html>
+<body><p>
+Today, the common practice for tracking vehicles is through GPS, whether it is with smartphones or devices that have a built in sensor. Effective examples of this tracking is MTA Bus Time Technology, which allows the MTA to track all of its buses throughout New York City and accurately determine when they will make it to their stops. Amtrak also offers users the ability track trains, where the sensors are placed on the tracks and as the train passes by it sends a signal relaying its location. Now this effective because these buses and trains stay above ground, allowing the sensors to remain in contact with GPS and determine their locations. Since the subway is underground a different kind of locator is needed, and the alternative is a device that relies on preloaded maps, timing, and accelerometers to determine its location. The second part of our idea requires the counting of people on the subway cars. People counting is not a new idea as seen with companies like SenSource, Inc. or Traf-Sys, Inc. that specialize in developing technology for this purpose. However, these systems are designed for retail environments, so that businesses can measure the foot traffic in their stores and they tend to be expensive. Simpler devices exist but they may not provide accurate data as they use infra-red sensors that can be easily triggered. For these reasons, a sensor that could measure electromagnetic radiation for a specific range of frequencies, like Wi-Fi or Bluetooth, is logical as it could determine the number of devices on the subway cars and therefore the number of people. <br><br>
+###Research
+<html>
+<body><p>
+Our initial set of interviews confirmed our beliefs that many subway commuters were annoyed by the crowds and delays associated with the subway and many just wanted more space on the train. While useful, these interviews were conducted very quickly and may not display some of the subtler annoyances that people associate with the subway. In order to further support our findings, we need to collect information from interviews that last longer than 30 seconds to better understand the pains of the people in our customer segment.

@@ -3,9 +3,8 @@
 ##First Round
 <html>
 <body>
-	<p>Mary, Brian, Jack, and Olu performed a survey at Wall St. Station on October 2nd, 2015 from 4:45pm - 6:00pm. We interviewed a diverse group of commuters within our customer segment.</p>
-
-	<p>Here are two graphs of our results from the 30 intereviews we conducted:</p>
+<p>Mary, Brian, Jack, and Olu performed a survey at Wall St. Station on October 2nd, 2015 from 4:45pm - 6:00pm. We interviewed a diverse group of commuters within our customer segment.<br>
+Here are two graphs of our results from the 30 intereviews we conducted:</p>
 </body>
 </html>
 	

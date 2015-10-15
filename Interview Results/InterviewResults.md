@@ -3,7 +3,7 @@
 ##First Round
 <html>
 <body>
-<p>Mary, Brian, Jack, and Olu performed a survey at Wall St. Station on October 2nd, 2015 from 4:45pm - 6:00pm. We interviewed a diverse group of commuters within our customer segment.<br>
+<p>Mary, Brian, Jack, and Olu performed a survey at Wall St. Station on October 2nd, 2015 from 4:45pm - 6:00pm. We interviewed a diverse group of commuters within our customer segment.<br><br>
 Here are two graphs of our results from the 30 intereviews we conducted:</p>
 </body>
 </html>
@@ -13,3 +13,9 @@ Here are two graphs of our results from the 30 intereviews we conducted:</p>
 ![Graph2](https://docs.google.com/spreadsheets/d/16jNCzWfa_DYHV939ffJshuHyGDIYsPWDf7iw2t2DKoQ/pubchart?oid=541175707&format=image)
 
 ##Second Round
+
+<html>
+<body>
+<p>Results for the second round of interviews will appear here.</p>
+</body>
+</html>

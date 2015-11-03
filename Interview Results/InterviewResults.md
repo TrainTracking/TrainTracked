@@ -28,8 +28,8 @@ They responded that they would definitely download an app that does those things
 
 <html>
 <body>
-<p>Transcript<br><br>
-A discussion with a bus commuter<br><br>
+<h3>Transcript 1</h3>
+<p>A discussion with a bus commuter<br><br>
 Age 25, white female, lives in New Jersey, Commutes to Wall St.<br><br>
 
 Q: Describe your commute.<br><br>
@@ -40,5 +40,9 @@ A: I generally read, answer emails, stuff like that. I try to sleep if I can but
 
 Q: Is there anything that you would change?<br><br>
 A: I want to drive my car in with no traffic and park for free. That’d really be great.</p>
+
+<h3>Transcript 1</h3>
+<p>Interviews with non-subway commuters within the customer segmenet (that is, busniness people between the ages of 18-45) <br><br>
+
 </body>
 </html>

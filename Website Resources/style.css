@@ -27,6 +27,7 @@ body {
 }
 
 .jumbotron q {
+  display: block;
   text-align: center;
   padding-bottom: 25%;
 }

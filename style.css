@@ -30,6 +30,10 @@ body {
   width: 40%;  
 }
 
+#first-glance {
+  padding-bottom: 25%;
+}
+
 .input-element {
   position: relative;
   height: 8.333333333333333%;

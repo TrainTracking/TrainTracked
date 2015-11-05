@@ -1,9 +1,22 @@
 * {
   font-family: 'Raleway', sans-serif;
+  text-align: center;
 }
 
 body {
   color: #FFF;
   background: url("http://i.imgur.com/YYThepG.jpg") no-repeat center center fixed;
   background-size: cover;
+}
+
+.headroom {
+  transition: transform 200ms linear;
+}
+
+.headroom--pinned {
+  transform: translateY(0%);
+}
+
+.headroom--unpinned {
+  transform: translateY(-100%);
 }

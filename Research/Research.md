@@ -87,7 +87,17 @@ Since I only interviewed 27 people, I feel that the data I gathered is not enoug
 Wi-Fi is now available to certain train stations and can be used in our project. Since most major stations such as the 42nd Street—Times Square, 14th Street—Union Square, and Jay St. Metrotech stations have Wi-Fi signals that our people-counter system can take advantage of. There does not appear to be large amounts of traffic at local stops so there is no reason to have the people counter work on those.<br><br>
 </p></body></html>
 
-
+###NEW RESEARCH FOR SMART BUSINESS CARD
+<html><body><p>
+LARGE BULK RFID CHIPS<br>
+http://www.alibaba.com/product-detail/MDIY151-HOT-Cheap-nfc-passive-rfid_1868159560.html?spm=a2700.7724857.29.64.qTmT0T
+<br><br>
+NOT SO LARGE BULK RFID CHIPS<br>
+http://www.alibaba.com/product-detail/rfid-laundry-tag-ntag203-silicon-cheap_60352721519.html?spm=a2700.7724857.29.100.qTmT0T
+<br><br>
+RELATIVELY OKAY AMOUNT OF NFC CHIPS<br>
+http://www.amazon.com/Black-NFC-Stickers-NTAG213-Tagstand/dp/B00KSR0636/ref=sr_1_2?ie=UTF8&qid=1446687359&sr=8-2&keywords=nfc+tag
+<br><br>
 ##Jack Langner:
 
 ###Customer Segment

@@ -13,6 +13,12 @@ body {
   background-size: cover;
 }
 
+#button {
+  position: relative;
+  height: 8.333333333333333%;
+  width: 16.666666666666666%;  
+}
+
 .input-element {
   position: relative;
   height: 8.333333333333333%;

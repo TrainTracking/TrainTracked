@@ -61,6 +61,8 @@ body {
 
 .jumbotron {
   background-color: rgba(228 , 228 , 228 , 0.2);
+  color: #FFF;
+  text-stroke: 2px black; 
 }
 
 .form {

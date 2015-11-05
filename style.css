@@ -1,6 +1,5 @@
 * {
   font-family: 'Raleway', sans-serif;
-  text-align: center;
 }
 
 nav {
@@ -15,6 +14,10 @@ body {
   color: #FFF;
   background: url("http://i.imgur.com/YYThepG.jpg") no-repeat center center fixed;
   background-size: cover;
+}
+
+q {
+  text-align: center;
 }
 
 #button {

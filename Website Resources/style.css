@@ -34,6 +34,7 @@ body {
 
 #form {
   background-color: #FF751A;
+  padding: 5% 0;
 }
 
 #button {
@@ -63,9 +64,7 @@ body {
 }
 
 .form {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
+  padding: 10% 0; 
 }
 
 .panel {

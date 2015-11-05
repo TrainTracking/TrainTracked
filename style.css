@@ -7,6 +7,10 @@ nav {
   background-color: #4DDBFF;
 }
 
+a:hover {
+  font-size: 110%;
+}
+
 body {
   color: #FFF;
   background: url("http://i.imgur.com/YYThepG.jpg") no-repeat center center fixed;

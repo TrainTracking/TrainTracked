@@ -13,7 +13,9 @@
 <br/>
 [Click here to see our interview results!](https://github.com/TrainTracking/TrainTracked/tree/master/Interview%20Results)
 <br/>
-[Check out our website here!](http://bit.ly/TrainTracked)<br/>
-
+[Check out the website for our first iteration here!](http://bit.ly/TrainTracked)
+<br/>
+[Check out the website for our second iteration here!](http://bit.ly/smartbusinesscard)<br/>
+<br/>
 </body>
 </html>

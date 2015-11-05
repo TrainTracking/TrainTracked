@@ -32,6 +32,10 @@ body {
   padding-bottom: 15%;
 }
 
+#form {
+  background-color: #FF751A;
+}
+
 #button {
   position: relative;
   height: 8.333333333333333%;

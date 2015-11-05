@@ -24,6 +24,12 @@ body {
   text-align: center;
 }
 
+#business {
+  rotateX(45deg);
+  rotateZ(45deg);
+  
+}
+
 #button {
   position: relative;
   height: 8.333333333333333%;

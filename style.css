@@ -12,8 +12,7 @@ a:hover {
 }
 
 body {
-  color: #FFF;
-  background: url("http://i.imgur.com/YYThepG.jpg") no-repeat center center fixed;
+  background-color: #FFF;
   background-size: cover;
 }
 

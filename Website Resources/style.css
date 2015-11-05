@@ -22,7 +22,9 @@ a:visited {
 }
 
 body {
-  background-color: #FFF;
+  background: rgba (81 , 130 , 209 , 1) 
+    url(http://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/pixly/pixly-grey-pattern.original.png) 
+      repeat center center fixed;
   background-size: cover;
 }
 

@@ -51,7 +51,7 @@ A: I want to drive my car in with no traffic and park for free. That’d really 
 
 <html><body>
 <p>Overview<br><br>
-Throughout the week of October 19th, I conducted seven interviews in the area near TriBeCa. The interviews were conducted around 3:00 - 5:00PM. All interviewed persons were between the ages of 18 and 45 and work in a business related field.
+Throughout the week of October 19th, I conducted seven interviews in the area near TriBeCa. The interviews were conducted around 3:00 - 5:00PM. All interviewed persons were between the ages of 18 and 45 and work in a business related field.<br><br>
 Person 1: He has a bachelor lifestyle. Work issues include organization and general file sorting. Larger issues involved home life. He does not enjoy cooking and prefers to have an easy order solution wherein he does not have to access any service site or app.<br><br>
 Person 2: She has a family, one husband and two children. Work related issues stem from inability to sort files intuitively. Connecting to other people in different sectors of work is also an issue if they aren't already in constant contact. Her home life revolves around food and not spending enough time with her children. She would prefer it if her work could be facilitated in some way so she can leave work earlier.<br><br>
 Person 3: She has a boyfriend. Her love life is not going as well as she would like. She delved into specifics of her love life that should not be reproduced in text. Her work life revolves around sitting in front of the computer and using Microsoft Word to format much of what her employers wrote.<br><br>

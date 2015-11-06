@@ -55,7 +55,7 @@ body {
   flex: 1;
   background-color: rgba(255 , 255 , 255 , 0.9);
   border: 30px solid rgba(228 , 228 , 228 , 0.5);
-  padding: 0;
+  padding: 10%;
   margin: 0;
 }
 

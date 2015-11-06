@@ -31,6 +31,10 @@ body {
   padding-bottom: 15%;
 }
 
+#img1 {
+  background-color: rgba(228 , 228 , 228 , 0.5)
+}
+
 #form {
   background-color: #FF751A;
   padding: 0.5% 0;

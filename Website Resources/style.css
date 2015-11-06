@@ -108,6 +108,8 @@ footer {
 
 .page-header {
   background-color: rgba(228 , 228 , 228 , 0.5);
+  padding: 0;
+  margin: 0;
 }
 
 .well {

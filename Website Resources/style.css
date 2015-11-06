@@ -51,14 +51,15 @@ body {
   padding-bottom: 25%;
 }
 
+#info {
+  background-color: rgba(255 , 255 , 255 , 0.9);  
+}
+
 .input-element {
   background-color: #3870CA;
   position: relative;
   height: 8.333333333333333%;
   width: 75%;
-}
-
-.container {
 }
 
 .jumbotron {

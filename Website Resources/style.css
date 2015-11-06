@@ -65,7 +65,7 @@ footer {
 }
 
 #team {
-  background-color: rgba(228 , 228 , 228 , 0.9);
+  background-color: rgba(228 , 228 , 228 , 1);
   margin: 0;
 }
 
@@ -107,13 +107,13 @@ footer {
 }
 
 .page-header {
-  background-color: rgba(228 , 228 , 228 , 0.9);
+  background-color: rgba(228 , 228 , 228 , 1);
   padding: 0 0 5% 0;
   margin: 0;
 }
 
 .well {
-  rgba(228 , 228 , 228 , 0.5);
+  rgba(228 , 228 , 228 , 1);
 }
 
 .headroom {

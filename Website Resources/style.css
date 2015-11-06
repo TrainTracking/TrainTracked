@@ -54,8 +54,7 @@ body {
 }
 
 .container {
-  background: ;
-  background-size: cover;  
+  background-color: rgba(228 , 228 , 228 , 0);
 }
 
 .jumbotron {

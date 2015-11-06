@@ -55,10 +55,14 @@ body {
   flex: 1;
   background-color: rgba(255 , 255 , 255 , 0.9);
   border: 20px solid rgba(228 , 228 , 228 , 0.5);
+  padding: 0;
+  margin: 0;
 }
 
 #info-box {
   display: flex;
+  padding: 0;
+  margin: 0;
 }
 
 .input-element {

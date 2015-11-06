@@ -70,6 +70,10 @@ footer {
   margin: 0;
 }
 
+#team {
+  background-color: rgba(228 , 228 , 228 , 0.5);
+}
+
 .input-element {
   background-color: #3870CA;
   position: relative;

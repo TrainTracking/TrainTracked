@@ -54,10 +54,10 @@ body {
 }
 
 .container {
-  background-color: rgba(228 , 228 , 228 , 0.0);
 }
 
 .jumbotron {
+  background-color: rgba(228 , 228 , 228 , 0.0);
   color: white;
   text-stroke: 2px black;
   text-shadow:

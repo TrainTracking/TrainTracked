@@ -29,12 +29,6 @@ footer {
   rgba(228 , 228 , 228 , 0.5);
 }
 
-.jumbotron q {
-  display: block;
-  text-align: center;
-  padding-bottom: 15%;
-}
-
 #img1 {
   background-color: rgba(228 , 228 , 228 , 0.5);
 }
@@ -96,9 +90,19 @@ footer {
     1px  1px 0 #000;
 }
 
+.jumbotron q {
+  display: block;
+  text-align: center;
+  padding-bottom: 15%;
+}
+
 .form {
   padding: 11% 0;
   margin: 0 auto;
+}
+
+.panel-body {
+  padding: 0;
 }
 
 .page-header {

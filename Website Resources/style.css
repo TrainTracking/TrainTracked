@@ -25,6 +25,10 @@ body {
   background: #5182D1 url(http://i.imgur.com/Zi59m1z.png) repeat center center fixed;
 }
 
+footer {
+  rgba(228 , 228 , 228 , 0.5);
+}
+
 .jumbotron q {
   display: block;
   text-align: center;
@@ -90,6 +94,14 @@ body {
 .form {
   padding: 11% 0;
   margin: 0 auto;
+}
+
+.page-header {
+  background-color: rgba(228 , 228 , 228 , 0.5);
+}
+
+.well {
+  rgba(228 , 228 , 228 , 0.5);
 }
 
 .headroom {

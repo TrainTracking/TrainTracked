@@ -94,10 +94,13 @@ footer {
 }
 
 .jumbotron a {
+  display: inherit;
   margin: auto;
-  width: 30%;
+  width: 50%;
   background-color: #649E17;
   border-radius: 10px;
+  text-align: center;
+  color: white;
 }
 
 .form {

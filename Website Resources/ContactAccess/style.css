@@ -7,6 +7,15 @@ img {
   width: 10%;
 }
 
+#sHeader {
+  color: #555;
+}
+
+#button {
+  color: white;
+  background:color: #3079ED;
+}
+
 .img-thumbnail {
   display: block;
   margin: auto;

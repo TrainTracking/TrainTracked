@@ -4,10 +4,13 @@
 
 nav {
   text-align: center;
+  border-bottom: 2px;
+  font-size: 1em;
 }
 
 nav strong {
   color: #B30000;
+  font-size: 4em;
 }
 
 a {
@@ -28,10 +31,6 @@ body {
 
 footer {
   rgba(228 , 228 , 228 , 0.5);
-}
-
-#img1 {
-  background-color: rgba(228 , 228 , 228 , 0.5);
 }
 
 #form {

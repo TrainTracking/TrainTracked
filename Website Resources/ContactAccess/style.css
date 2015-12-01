@@ -1,6 +1,10 @@
 * {
   font-family: 'Raleway', sans-serif;
 }
+h1 {
+  color: #B30000;
+  font-size: 4em;
+}
 
 img {
   vertical-align: middle;

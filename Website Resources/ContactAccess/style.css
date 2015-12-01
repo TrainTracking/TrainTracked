@@ -15,6 +15,23 @@ img {
   width: 10%;
 }
 
+a {
+  text-decoration: none;
+  color: #567;
+}
+
+a:hover {
+  font-size: 110%;
+  text-decoration: none;
+  color: #7a8fa3;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #7a8fa3;
+}
+
+
 #sHeader {
   color: #555;
 }

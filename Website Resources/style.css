@@ -54,14 +54,11 @@ footer {
 
 #info {
   flex: 1;
-  background-color: rgba(255 , 255 , 255 , 0.9);
-  border: 30px solid rgba(228 , 228 , 228 , 0.5);
   padding: 2.5%;
   margin: 0;
 }
 
 #info-box {
-  background-color: rgba(255 , 255 , 255 , 0.5);
   display: flex;
   padding: 0;
   margin: 0;

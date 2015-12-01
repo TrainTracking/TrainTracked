@@ -101,6 +101,8 @@ footer {
 }
 
 .jumbotron {
+  margin-bottom: 0;
+  padding-bottom: 15%;
   color: white;
   background: url(http://i.imgur.com/YYThepG.jpg) no-repeat center center fixed;
   background-size: cover;

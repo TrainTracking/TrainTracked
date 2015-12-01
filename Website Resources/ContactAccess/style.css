@@ -25,7 +25,7 @@ img {
   color: #FFF;
   text-shadow: 0 1px rgba(0,0,0,0.1);
   background-color: #4D90FE;
-  background-image: linear-gradient(top, #4d90fe, #4787ed0)
+  background: linear-gradient(top, #4d90fe, #4787ed0);
 }
 
 .img-thumbnail {

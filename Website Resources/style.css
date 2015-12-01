@@ -84,7 +84,7 @@ footer {
 }
 
 .jumbotron {
-  background: img(http://i.imgur.com/YYThepG.jpg) no-repeat center center fixed;
+  background: url(http://i.imgur.com/YYThepG.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 

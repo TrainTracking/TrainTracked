@@ -33,6 +33,10 @@ h2 {
   color: #678;
 }
 
+b {
+  color: #5e9516;
+}
+
 footer {
   rgba(228 , 228 , 228 , 0.5);
 }
@@ -57,6 +61,10 @@ footer {
   flex: 1;
   padding: 2.5%;
   margin: 0;
+}
+
+#info p {
+  color: #555;
 }
 
 #info-box {

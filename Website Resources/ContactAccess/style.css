@@ -6,3 +6,7 @@ img {
   vertical-align: middle;
   width: 10%;
 }
+
+.img-thumbnail {
+  display: block;
+}

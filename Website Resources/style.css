@@ -86,16 +86,16 @@ footer {
 }
 
 .jumbotron {
+  color: white;
   background: url(http://i.imgur.com/YYThepG.jpg) no-repeat center center fixed;
   background-size: cover;
   height: 100%;
   font-size: 2em;
 }
 
-.jumbotron q {
-  display: block;
-  text-align: center;
-  padding-bottom: 15%;
+.jumbotron a {
+  background-color: #649E17;
+  border-radius: 10px;
 }
 
 .form {

@@ -6,6 +6,10 @@ h1 {
   font-size: 4em;
 }
 
+form {
+  margin-bottom: 10%;
+}
+
 img {
   vertical-align: middle;
   width: 10%;

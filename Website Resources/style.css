@@ -50,14 +50,12 @@ footer {
   rgba(228 , 228 , 228 , 0.5);
 }
 
-#form {
-  padding: 3.5% 0;
-}
-
 #button {
   position: relative;
   height: 8.333333333333333%;
   width: 40%;
+  background-color: black;
+  color: white;
 }
 
 #first-glance {
@@ -81,6 +79,10 @@ footer {
   margin: 0;
 }
 
+#F {
+  background: url(http://uploads.strikinglycdn.com/static/backgrounds/pastel-solids/36.jpg);
+}
+
 #team {
   margin: 0;
 }
@@ -91,9 +93,11 @@ footer {
 }
 
 .input-element {
+  background-color: white;
   position: relative;
   height: 8.333333333333333%;
   width: 75%;
+  border-radius: 10px;
 }
 
 .jumbotron {
@@ -150,7 +154,7 @@ footer {
 }
 
 .well {
-  background-color: white;
+  background-color: rgba(252,252,252,1);
 }
 
 .headroom {

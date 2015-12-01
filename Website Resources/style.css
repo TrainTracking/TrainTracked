@@ -94,6 +94,7 @@ footer {
 }
 
 .jumbotron a {
+  margin: auto;
   background-color: #649E17;
   border-radius: 10px;
 }

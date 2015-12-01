@@ -9,4 +9,5 @@ img {
 
 .img-thumbnail {
   display: block;
+  margin: auto;
 }

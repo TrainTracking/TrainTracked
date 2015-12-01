@@ -89,6 +89,7 @@ footer {
   background: url(http://i.imgur.com/YYThepG.jpg) no-repeat center center fixed;
   background-size: cover;
   height: 100%;
+  font-size: 2em;
 }
 
 .jumbotron q {

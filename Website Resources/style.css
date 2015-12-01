@@ -29,6 +29,10 @@ a:visited {
   color: #7a8fa3;
 }
 
+img {
+  margin: auto;
+}
+
 h2 {
   text-align: center;
   color: #678;

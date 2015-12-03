@@ -51,6 +51,7 @@ footer {
 }
 
 #button {
+  margin: auto;
   position: relative;
   height: 8.333333333333333%;
   width: 50%;

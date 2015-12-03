@@ -104,14 +104,11 @@ footer {
   margin-bottom: 0;
   padding-bottom: 15%;
   color: white;
-  background: url(http://images.all-free-download.com/images/graphiclarge/solid_gray_background_209996.jpg) no-repeat center center fixed;
+  background: url(http://theartmad.com/wp-content/uploads/Solid-Dark-Grey-Background-1.jpg) no-repeat center center fixed;
   background-size: cover;
   height: 100%;
   font-size: 2em;
   
-  text-stroke: 2px black;
-}
-
 .jumbotron a {
   display: inherit;
   margin: auto;

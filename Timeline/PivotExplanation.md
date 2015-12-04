@@ -93,3 +93,26 @@ Would you use a smart business card (that looks and feels like a credit card) th
 </p>
 </body>
 </html>
+
+##Mary’s final interviews to get customer feedback and contact information
+###Goals:
+<html>
+<body>
+<p>Show potential customers what the user experience would be like, and get their contact informatin to follow up.
+</p>
+</body>
+</html>
+##Questions:
+<html>
+<body>
+<p>
+</p>
+</body>
+</html>
+##Resutls:
+<html>
+<body>
+<p>
+</p>
+</body>
+</html>

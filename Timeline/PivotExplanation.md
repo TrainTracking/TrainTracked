@@ -71,7 +71,7 @@ Would you use a smart business card (that looks and feels like a credit card) th
 </html>
 
 
-##Brian’s interview with the business card and website:
+##Interview with the Minimum Viable Product and Website (Brian):
 ###Goals:
 <html>
 <body>
@@ -94,7 +94,7 @@ Would you use a smart business card (that looks and feels like a credit card) th
 </body>
 </html>
 
-##Mary’s final interviews to get customer feedback and contact information
+##Final interviews for get customer feedback and contact information (Mary)
 ###Goals:
 <html>
 <body>

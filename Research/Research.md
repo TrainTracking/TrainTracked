@@ -74,6 +74,21 @@ They responded that they would definitely download an app that does those things
 Current New York City subway app competitors include HopStop, Embark NYC, and MTA SubwayTime. Neither HopStop nor Embark NYC offer train tracking or crowd control. However, MTA SubwayTime offers train tracking features. The app only tracks the trains on 8 of the 24 NYC Subway lines. Ultimately, none of the apps do what our train tracking app would offer. Although members of our customer segment have these apps downloaded to their phones, they use them infrequently. Our customer segment wants to be informed about crowds and train timing daily, and would get more use out of an app that does just that. Incorporating the mapping attributes of Embark NYC and HopStop would expand our market and supplant the need for either of those apps as a whole.<br><br> 
 Apple recently purchased HopStop and the application is shutting down October 2015.</p></body></html>
 
+###MTA rules and regulations
+<html>
+<body><p>
+I researched to see what tests we were permitted to run on the subway. Any testing we would do that invovled tracking people's locations with low energy bluetooth would be permitted and any videotaping to count heads would also be permitted. Please see exerpts from mta.info:
+
+"Photography, filming or video recording in any facility or conveyance is permitted except that ancillary equipment such as lights, reflectors or tripods may not be used. Members of the press holding valid identification issued by the New York City Police Department are hereby authorized to use necessary ancillary equipment. All photographic activity must be conducted in accordance with the provisions of this Part."
+
+	
+"No person may carry on or bring to any facility or conveyance any item that:
+
+is so long as to extend outside the window or door of a subway car, bus or other conveyance;
+constitutes a hazard to the operation of the Authority, interferes with passenger traffic, or impedes service; or
+constitutes a danger or hazard to other persons."
+</p></body></html>
+
 
 
 

@@ -44,6 +44,18 @@ A: I want to drive my car in with no traffic and park for free. That’d really 
 <h3>Transcript 2</h3>
 <p>Interviews with non-subway commuters within the customer segmenet (that is, busniness people between the ages of 18-45) <br><br>
 
+Subway Ride Interviews (Mary)<br><br>
+Roughly 10 minute interviews with 6 different people (4 female, 2 male, varied ethnicities, throughout the age group of our customer segment)<br><br>
+Goal: validate our value proposition<br><br>
+Questions: <br><br>
+Are you an 18-45 year old business person?<br><br>
+Do you attend networking events/conferences career fairs?<br><br>
+What bothers you most in that environment?<br><br>
+Would you use a smart business card (that looks and feels like a credit card) that just taps and transfers information immediately onto your cellphone? <br><br>
+
+Results: <br><br> 6/6 people expressed interest in the product. They were most interested in the speed, ease, and the organizational aspect of the card. They wanted to access the files on their computer in an organized way so that they could favorite the people from these events that they wanted to follow up with and actually make use of the information they discussed. <br><br>
+
+
 </body>
 </html>
 

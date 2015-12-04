@@ -2,7 +2,7 @@
 
 <html>
 <body>
-<p>Below you read the interview summaries that led to our project pivot.</p>
+<p>Below are the interview summaries that led to our project pivot.</p>
 </body>
 </html>
 

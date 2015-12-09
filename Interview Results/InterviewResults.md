@@ -55,6 +55,21 @@ Would you use a smart business card (that looks and feels like a credit card) th
 
 Results: <br><br> 6/6 people expressed interest in the product. They were most interested in the speed, ease, and the organizational aspect of the card. They wanted to access the files on their computer in an organized way so that they could favorite the people from these events that they wanted to follow up with and actually make use of the information they discussed. <br><br>
 
+<h3>Transcript 3</h3>
+<p> Verifying that our product solves the problems we raised in the value proposition. (Mary)<br><br>
+Roughly 10 minute discussions and interviews with 3 different people and email follow ups.<br><br>
+Goal: validate that our product is desireable and solves a problem.<br><br>
+Situation: <br><br>
+I shared our value proposition, video, and beta website, then asked for their honest thoughts:<br><br>
+1) Does this product solve the problems we raised?<br><br>
+2) Would you purchase it?<br><br>
+
+
+Results: <br><br> 
+Person 1: (47 year old Vice President at an international engineering/security company, female)  <br><br>
+Person 2: (51 year old CPA at a major US insurance company, male)  <br><br>
+Person 3: (45 year old marketing executive for Martha Stewart, female)  <br><br>
+
 
 </body>
 </html>

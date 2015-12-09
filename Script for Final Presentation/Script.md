@@ -32,7 +32,7 @@ Slide 14: Then we took our product to the streets to see what people thought of 
 
 Slide 15: All of the people we interviewed like the idea, but expressed some security concerns and the potential to improve the user interface - which we are in the process of doing. <br><br>
 
-Slide 16: To further validate our products potential we did 5 sets of longer, detailed interviews with various professionals who attend conferences regularly. <br><br>
+Slide 16: To further validate our products potential we did 3 sets of longer, detailed interviews with various professionals who attend conferences regularly. <br><br>
 
 Slide 17: (Results) <br><br>
 Slide 18: We have a beta site to collect data. This website gives customers the opportunity to pre-order the product without it being available. This way we can test interest without losing money building a prototype. We have collected X emails. 

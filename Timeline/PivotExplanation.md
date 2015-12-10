@@ -106,13 +106,16 @@ Would you use a smart business card (that looks and feels like a credit card) th
 <html>
 <body>
 <p>
+I shared our value proposition, product summary, and beta website, then asked for their honest thoughts:<br><br>
+1) Does this product solve the problems we raised?<br><br>
+2) Would you purchase it?<br><br>
 </p>
 </body>
 </html>
 ##Resutls:
 <html>
 <body>
-<p>
+<p>The interviewees felt our product was solving a problem but wanted to make sure we optimized the technology we were using. RFID has the potential to track locations, and through cloud technology the database can expand to connect with LinkedIn accounts. Use these opportunities to better solve the problem.
 </p>
 </body>
 </html>

@@ -76,7 +76,8 @@ I am very interested in the product. One card will replace collecting many paper
 It is easy to use, just tap another phone and transfer pertinent data. The fact that it will organize the data will save time and the fact that the user can rate the information as a favorite will enable the user to prioritize the data. This is an effective and efficient product.<br><br>
 
 Person 3: (45 year old marketing executive for Martha Stewart, female)  <br><br>
-
+This problem effectively addresses the problems that you raised and problems I frequently experience. I would be interested in using the product, however it relies on a major network of people to work effectively. Seeking out partnerships with LinkedIn or other similar networking platforms would be helpful when trying to get your feet of the ground. <br><br>
+Ultimately, I experience all of the problems you mentioned and I believe this product solves those problems. 
 
 </body>
 </html>

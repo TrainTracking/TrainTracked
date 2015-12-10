@@ -79,14 +79,14 @@ Would you use a smart business card (that looks and feels like a credit card) th
 </p>
 </body>
 </html>
-##Questions:
+###Questions:
 <html>
 <body>
 <p>
 </p>
 </body>
 </html>
-##Resutls:
+###Resutls:
 <html>
 <body>
 <p>
@@ -102,7 +102,7 @@ Would you use a smart business card (that looks and feels like a credit card) th
 </p>
 </body>
 </html>
-##Questions:
+###Questions:
 <html>
 <body>
 <p>
@@ -112,7 +112,7 @@ I shared our value proposition, product summary, and beta website, then asked fo
 </p>
 </body>
 </html>
-##Resutls:
+###Resutls:
 <html>
 <body>
 <p>The interviewees felt our product was solving a problem but wanted to make sure we optimized the technology we were using. RFID has the potential to track locations, and through cloud technology the database can expand to connect with LinkedIn accounts. Use these opportunities to better solve the problem.

@@ -20,7 +20,7 @@
 <br/>
 [Check out the website for our first iteration here!](http://bit.ly/TrainTracked)
 <br/>
-[Check out the website for our second iteration here!](http://bit.ly/smartbusinesscard)<br/>
+[Check out the website for our second iteration here!](http://bit.ly/smartbusinesscard_landing)<br/>
 <br/>
 </body>
 </html>

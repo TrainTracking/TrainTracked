@@ -60,7 +60,7 @@ Results: <br><br> 6/6 people expressed interest in the product. They were most i
 Roughly 10 minute discussions and interviews with 3 different people and email follow ups.<br><br>
 Goal: validate that our product is desireable and solves a problem.<br><br>
 Situation: <br><br>
-I shared our value proposition, video, and beta website, then asked for their honest thoughts:<br><br>
+I shared our value proposition, product summary, and beta website, then asked for their honest thoughts:<br><br>
 1) Does this product solve the problems we raised?<br><br>
 2) Would you purchase it?<br><br>
 

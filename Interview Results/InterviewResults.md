@@ -69,6 +69,7 @@ Results: <br><br>
 Person 1: (47 year old Vice President at an international engineering/security company, female)  <br><br>
 Yes I am interested in the product because it saves me from carrying business cards around.  I forget them frequently or run out. It's also an environmentally friendly way of collecting the data for easier retrieval. <br><br>
 I think the card solves the problems that you defined.  I also think it could lay the ground work for future features for electronic networking.  This puts a lot of Power in the hands of the person that holds the smart card .  It should tie to your social network accounts if you opt in.  Once those are linked it can return data on mutual friends or contacts in common or companies that you have in common.  This could be a real conversation starter to develop a relationship  with the contact. <br><br>
+Utilize the power in RFID technology and the connected cloud. Files can be organized by location - if you cannot remember when you met someone, but you can remember where, etc.<br><br>
 One caveat is that Business cards are a status symbol in some cultures. The exchange of business card is a presentation using two hands in some Asian cultures.  Tapping a card against the phone will not have the same impact. This may prevent global adoption of the smart card.<br><br>
 
 Person 2: (51 year old CPA at a major US insurance company, male)  <br><br>

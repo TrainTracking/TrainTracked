@@ -7,7 +7,7 @@ $(document).ready(function(){
     $("#sign_in").hide("fast"); 
     clicked = 1;
   });
-  if (clicked = 1) {
+  if (clicked === 1) {
     $("#contacts").show("fast");
     $("#sign_in").hide("fast");  
   }

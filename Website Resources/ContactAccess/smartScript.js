@@ -1,8 +1,16 @@
-$(document).ready(function(){
+var pageState {
   $("#contacts").hide("fast");
-  $("#sign_in").show("fast");
   $("#button").click(function(){
     $("#contacts").show("fast");
-    $("#sign_in").hide("fast");  
+    $("#sign_in").hide("fast");
+    var click = 1;
   });
+  if (click = 1) {
+    $("#contacts").show("fast");
+    $("#sign_in").hide("fast");
+  }
+}
+
+$(document).ready(function(){
+  pageState(); 
 });

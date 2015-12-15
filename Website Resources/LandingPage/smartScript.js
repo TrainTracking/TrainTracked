@@ -4,7 +4,7 @@ $(document).ready(function() {
   $('body').scrollspy({target: "nav", offset: 50});   
 
   // Add smooth scrolling on all links inside the navbar
-  $("nav #scroll").on('click', function(event) {
+  $("nav #scroll, #button").on('click', function(event) {
 
     // Prevent default anchor click behavior
     event.preventDefault();

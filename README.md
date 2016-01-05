@@ -13,7 +13,8 @@
     <p> The Smart Business Card is a metal business card that stores all of the business information that you want to store on it: this ranges from contact information to full resumes and website links. This way, when you go to a conference, career fair, or any networking event: meeting people is quick and easy, the Smart Business Card keeps track of all of the information for you. </p>
     <p> How does it work? Upon purchasing the Smart Business Card, you get an identification code to an online Account. You use that ID to create a personal profile. Store all of the information you want on your business card onto the profile. Through your account, you will also have acess to a system that organizes all of the contacts you connect with. Every time someone taps their business card against your phone, a folder is created with the date. Within the folder, there is another folder with the person's name - click on that folder to access all of the info they want to share with you! </p>
     
-    
+[Click here to see our kickstarter!](https://www.kickstarter.com/projects/756371965/433259707?token=dca5766a)
+<br/>    
 [Click here to see our research!](https://github.com/TrainTracking/TrainTracked/tree/master/Research)
 <br/>
 [Click here to see our interview results!](https://github.com/TrainTracking/TrainTracked/tree/master/Interview%20Results)
